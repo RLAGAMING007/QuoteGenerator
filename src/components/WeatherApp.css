@@ -1,0 +1,47 @@
+h1 {
+  color: rgb(73, 30, 30);
+}
+.wa__div {
+  display: flex;
+  justify-content: center;
+}
+.weatherApp__container {
+  background: #ffffff;
+  display: flex;
+  width: 800px;
+  margin-left: 50px;
+  margin-right: 50px;
+
+  flex-direction: column;
+  margin-top: 50px;
+  height: 500px;
+}
+.input-box {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0 50px 0;
+}
+.input-box input {
+  padding: 15px;
+  border-radius: 36px;
+}
+h1 {
+  font-size: 25px;
+}
+h2 {
+  font-size: 50px;
+}
+
+.current__weather p {
+  font-size: 25px;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.ul0 {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}

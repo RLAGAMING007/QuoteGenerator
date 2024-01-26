@@ -1,5 +1,6 @@
 @import url("./App.css");
 @import url("./components/RandomQuotes.css");
+@import url(./components/WeatherApp.css);
 
 *,
 ::after,
